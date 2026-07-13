@@ -66,13 +66,6 @@ Open the project in your preferred editor:
 ```bash
 code .
 ```
-Download modules and start:
-
-
-```bash
-npm install
-npm run dev
-```
 
 Run the project using the **Live Server** extension for VS Code or simply open `index.html` in your browser.
 
